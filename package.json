@@ -4,7 +4,7 @@
   "description": "Easy way to version a Node.js API",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt coffee mochaTest"
   },
   "repository": {
     "type": "git",
