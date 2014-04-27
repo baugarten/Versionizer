@@ -1,5 +1,5 @@
 {
-  "name": "Versionizer",
+  "name": "versionizer",
   "version": "0.0.1",
   "description": "Easy way to version a Node.js API",
   "main": "index.js",
