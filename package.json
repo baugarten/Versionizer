@@ -1,7 +1,7 @@
 {
   "name": "Versionizer",
-  "version": "0.0.0",
-  "description": "Adds versions to your mongoose models that correspond to your API versions. Dynamically selects API version based on model information",
+  "version": "0.0.1",
+  "description": "Easy way to version a Node.js API",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
